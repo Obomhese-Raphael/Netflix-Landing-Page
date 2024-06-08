@@ -10,7 +10,7 @@ This project is a static clone of the Netflix landing page, built using HTML and
 * Educational purpose: This project serves as a learning exercise for HTML and CSS development, allowing developers to practice building responsive layouts and refining their design skills.
 
 ## Technologies Used
-* HTML5: For structuring the page content.
+* HTML5: For structuring the page content. 
 * CSS3: For styling and layout, including media queries for responsiveness.
 * Bootstrap: Optional, for additional layout components and responsiveness.
 
